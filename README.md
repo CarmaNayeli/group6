@@ -1,2 +1,2 @@
 # group6
-Group6ProjectEdunation
+Group 6 Project for Edunation Inttoduction to Computer Science
